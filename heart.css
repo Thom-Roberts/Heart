@@ -1,0 +1,33 @@
+* {
+  cursor: none;
+}
+
+body {
+  font-size: 14pt;
+  font-family: serif;
+  background-color: #a88a7e;
+  padding: 0;
+  margin: 0;
+}
+
+.story {
+  width: 800px;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+h2 {
+  font-size: 24pt;
+  text-align: center;
+  margin: 0;
+}
+
+h6 {
+  font-size: 10pt;
+  text-align: center;
+  margin: 0;
+}
+
+#flashlight {
+  position: absolute;
+}
